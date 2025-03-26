@@ -1,0 +1,15 @@
+{
+  "name": "redis-checker",
+  "version": "1.0.0",
+  "description": "Redis connection checker tool by @AzelWasHere",
+  "author": "AzelWasHere",
+  "main": "index.js",
+  "scripts": {
+    "start": "start.bat"
+  },
+  "dependencies": {
+    "redis": "^4.6.13",
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  }
+} 
